@@ -3,54 +3,63 @@
         "id": 1,
         "firstName": "Craig",
         "lastName": "Morrison",
-        "title": "Director of Engineering"
+        "title": "Director of Engineering",
+        "payBand": 2
     },
     {
         "id": 2,
         "firstName": "Mason",
         "lastName": "Johnson",
-        "title": "Project Manager"
+        "title": "Senior Project Manager",
+        "payBand": 3
     },
     {
         "id": 3,
         "firstName": "Nathan",
         "lastName": "Becks",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "payBand": 4
     },
     {
         "id": 4,
         "firstName": "Sarah",
         "lastName": "Hoff",
-        "title": "Director of HR"
+        "title": "Director of HR",
+        "payBand": 3
     },
     {
         "id": 5,
         "firstName": "Jamal",
         "lastName": "Daniels",
-        "title": "Software Engineer"
+        "title": "Software Engineer",
+        "payBand": 5
     },
     {
         "id": 6,
         "firstName": "Sheila",
         "lastName": "Chase",
-        "title": "Software Engineer"
+        "title": "Software Engineer",
+        "payBand": 5
     },
     {
         "id": 7,
         "firstName": "Davis",
         "lastName": "Jenkins",
-        "title": "HR Manager"
+        "title": "HR Manager",
+        "payBand": 4
     },
     {
         "id": 8,
         "firstName": "Greg",
         "lastName": "Jackson",
-        "title": "Associate Software Engineer"
+        "title": "Associate Software Engineer",
+        "payBand": 6
     },
     {
         "id": 9,
         "firstName": "Natasha",
         "lastName": "Moore",
-        "title": "Associate Program Manager"
+        "title": "Program Manager",
+        "payBand": 5
     }
 ]
