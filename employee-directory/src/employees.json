@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "firstName": "Craig",
+        "lastName": "Morrison",
+        "title": "Director of Engineering"
+    },
+    {
+        "id": 2,
+        "firstName": "Mason",
+        "lastName": "Johnson",
+        "title": "Project Manager"
+    },
+    {
+        "id": 3,
+        "firstName": "Nathan",
+        "lastName": "Becks",
+        "title": "Project Manager"
+    },
+    {
+        "id": 4,
+        "firstName": "Sarah",
+        "lastName": "Hoff",
+        "title": "Director of HR"
+    },
+    {
+        "id": 5,
+        "firstName": "Jamal",
+        "lastName": "Daniels",
+        "title": "Software Engineer"
+    },
+    {
+        "id": 6,
+        "firstName": "Sheila",
+        "lastName": "Chase",
+        "title": "Software Engineer"
+    },
+    {
+        "id": 7,
+        "firstName": "Davis",
+        "lastName": "Jenkins",
+        "title": "HR Manager"
+    },
+    {
+        "id": 8,
+        "firstName": "Greg",
+        "lastName": "Jackson",
+        "title": "Associate Software Engineer"
+    },
+    {
+        "id": 9,
+        "firstName": "Natasha",
+        "lastName": "Moore",
+        "title": "Associate Program Manager"
+    }
+]
