@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import employees from './employees.json'
+import employee from './employees.json'
 
 class App extends React.Component {
   state = {
-    employeeList: employees
+    employeeList: employee
   }
   render() {
     return (
@@ -20,12 +20,15 @@ class App extends React.Component {
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <th scope="row">1</th>
-              <td>Mark</td>
-              <td>Otto</td>
-              <td>@mdo</td>
-            </tr>
+            {this.state.employeeList.map(employee => (
+              <tr>
+                <th scope="row">{employee.id}</th>
+                <td>{employee.firstName}</td>
+                <td>{employee.lastName}</td>
+                <td>{employee.title}</td>
+                <td>{employee.payBand}</td>
+              </tr>
+            ))}
           </tbody>
         </table>
       </>
